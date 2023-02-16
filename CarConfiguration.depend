@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676588588 source:c:\users\hp\documents\c++ projects\productconfiguration\carconfiguration\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
